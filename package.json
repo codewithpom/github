@@ -1,0 +1,23 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "A helper library for github API in typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithpom/github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithpom/github/issues"
+  },
+  "homepage": "https://github.com/codewithpom/github#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
